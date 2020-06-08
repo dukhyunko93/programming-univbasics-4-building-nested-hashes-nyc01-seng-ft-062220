@@ -2,5 +2,5 @@
 # you're suppose to "build up" to this.
 
 monopoly =  {
-  :railroads=>{}
+  :railroads => { }
 }
