@@ -3,7 +3,6 @@ def base_hash
     :railroalds => {
     }
   }
-
 end
 
 def monopoly_with_second_tier
